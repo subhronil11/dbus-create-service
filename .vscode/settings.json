@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./trial1/velib_python"
+    ]
+}
